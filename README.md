@@ -3,7 +3,7 @@
 
 > Status do projeto: em desenvolvimento
 > 
-Para instalar esse sistema, digite no seu terminal:
+Para instalar/rodar esse sistema, digite no seu terminal:
 ```
-npm install react
+node app.js
 ```
